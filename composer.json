@@ -1,5 +1,5 @@
 {
-    "name": "ebcms/app-appm",
+    "name": "ebcms/appm",
     "description": "应用管理",
     "type": "ebcms-app",
     "license": "Apache-2.0",
